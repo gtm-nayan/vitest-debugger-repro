@@ -1,0 +1,20 @@
+{
+  "name": "vitest-debugger",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "is-even": "^1.0.0",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "jsdom": "^22.1.0",
+    "magic-string": "^0.30.3",
+    "vite": "^4.4.5",
+    "vitest": "^0.34.3"
+  }
+}
